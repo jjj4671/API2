@@ -7,6 +7,7 @@ GET list of teams: api/team
 GET certain team by Team number api/team/(teamno)
 PUT any attribute changes to a specific team /api/team/(teamno)
 POST a new team to the table api/team
+DELETE any team api/team/(teamno)
 
 
 If I were to have finished this API Project's player aspect, it would've returned details about specified players and their stats in the 2023 season of La Liga. Adding to that perhaps I could add support for coach statistics or how teams from different leagues square off in the UCL.
